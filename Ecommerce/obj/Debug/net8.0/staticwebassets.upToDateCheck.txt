@@ -1,3 +1,5 @@
+wwwroot\images\250558_foaiuv.webp
+wwwroot\images\5171kgKguGL.jpg
 wwwroot\lib\jquery-validation\dist\additional-methods.js
 wwwroot\lib\jquery-validation\dist\additional-methods.min.js
 wwwroot\lib\jquery-validation\dist\jquery.validate.js

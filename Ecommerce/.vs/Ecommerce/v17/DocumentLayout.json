@@ -3,20 +3,32 @@
   "WorkspaceRootPath": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\",
   "Documents": [
     {
+      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:views\\account\\login.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:controllers\\accountcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:views\\home\\welcome.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:views\\product\\allproduct.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
       "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
-    },
-    {
-      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
-      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+      "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|solutionrelative:controllers\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{D67ECAC9-73EF-405A-BD2C-442F26196FF4}|Ecommerce.csproj|d:\\git repository\\e-commerce-asp.net-core-mvc\\ecommerce\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
@@ -34,84 +46,123 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 3,
+          "SelectedChildIndex": 0,
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Product.cs",
-              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Models\\Product.cs",
-              "RelativeDocumentMoniker": "Models\\Product.cs",
-              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Models\\Product.cs",
-              "RelativeToolTip": "Models\\Product.cs",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAvAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T12:34:43.679Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
+              "DocumentIndex": 0,
               "Title": "Details.cshtml",
               "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Details.cshtml",
               "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
               "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Details.cshtml",
               "RelativeToolTip": "Views\\Product\\Details.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAACMAAAANAAAAAAAAAA==",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T12:42:04.334Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 5,
-              "Title": "Edit.cshtml",
-              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Edit.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
-              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Edit.cshtml",
-              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
-              "ViewState": "AgIAABwAAAAAAAAAAAAiwCMAAAASAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T12:39:55.897Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ProductController.cs",
-              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\ProductController.cs",
-              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
-              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\ProductController.cs",
-              "RelativeToolTip": "Controllers\\ProductController.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAUwEMAAAAIAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T12:36:26.935Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 4,
-              "Title": "Create.cshtml",
-              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Create.cshtml",
-              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
-              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Create.cshtml",
-              "RelativeToolTip": "Views\\Product\\Create.cshtml",
-              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAGAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
-              "WhenOpened": "2025-07-05T12:35:41.435Z",
+              "WhenOpened": "2025-07-05T22:28:57.723Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "ProductService.cs",
-              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Services\\ProductService.cs",
-              "RelativeDocumentMoniker": "Services\\ProductService.cs",
-              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Services\\ProductService.cs",
-              "RelativeToolTip": "Services\\ProductService.cs",
-              "ViewState": "AgIAAAgAAAAAAAAAAAAgwBUAAAAfAAAAAAAAAA==",
+              "Title": "AccountController.cs",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\AccountController.cs",
+              "RelativeDocumentMoniker": "Controllers\\AccountController.cs",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\AccountController.cs",
+              "RelativeToolTip": "Controllers\\AccountController.cs",
+              "ViewState": "AgIAAC0AAAAAAAAAAAAowAoAAAAFAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-07-05T11:30:20.239Z",
+              "WhenOpened": "2025-07-05T22:27:16.71Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Login.cshtml",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Account\\Login.cshtml",
+              "RelativeDocumentMoniker": "Views\\Account\\Login.cshtml",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Account\\Login.cshtml",
+              "RelativeToolTip": "Views\\Account\\Login.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T22:27:08.196Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "AllProduct.cshtml",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\AllProduct.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\AllProduct.cshtml",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\AllProduct.cshtml",
+              "RelativeToolTip": "Views\\Product\\AllProduct.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T22:25:54.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Welcome.cshtml",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Home\\Welcome.cshtml",
+              "RelativeDocumentMoniker": "Views\\Home\\Welcome.cshtml",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Home\\Welcome.cshtml",
+              "RelativeToolTip": "Views\\Home\\Welcome.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAUAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T22:18:04.437Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeDocumentMoniker": "Controllers\\HomeController.cs",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\HomeController.cs",
+              "RelativeToolTip": "Controllers\\HomeController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAABIAAAAYAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:16:47.885Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAACcAAAAAAAAAAADwvzIAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-07-05T22:11:17.013Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAABIAAAAAAAAAAAAAAB4AAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T22:12:31.835Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Edit.cshtml",
+              "DocumentMoniker": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Edit.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Edit.cshtml",
+              "ToolTip": "D:\\Git Repository\\E-commerce-Asp.net-Core-MVC\\Ecommerce\\Views\\Product\\Edit.cshtml",
+              "RelativeToolTip": "Views\\Product\\Edit.cshtml",
+              "ViewState": "AgIAABQAAAAAAAAAAAAuwCYAAABLAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-07-05T22:12:13.119Z",
               "EditorCaption": ""
             }
           ]

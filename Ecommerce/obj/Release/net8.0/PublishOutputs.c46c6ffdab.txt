@@ -65,6 +65,7 @@ D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTm
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\NuGet.ProjectModel.dll
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\NuGet.Protocol.dll
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\NuGet.Versioning.dll
+D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\System.ClientModel.dll
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\System.CodeDom.dll
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\System.Composition.AttributedModel.dll
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Release\net8.0\PubTmp\Out\System.Composition.Convention.dll

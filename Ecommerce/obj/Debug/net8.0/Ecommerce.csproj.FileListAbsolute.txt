@@ -260,3 +260,5 @@ D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Debug\net8.0\staticw
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Debug\net8.0\Ecommerce.csproj.Up2Date
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Debug\net8.0\Ecommerce.genruntimeconfig.cache
 D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Debug\net8.0\ref\Ecommerce.dll
+D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\obj\Debug\net8.0\Ecommerce.sourcelink.json
+D:\Git Repository\E-commerce-Asp.net-Core-MVC\Ecommerce\bin\Debug\net8.0\System.ClientModel.dll

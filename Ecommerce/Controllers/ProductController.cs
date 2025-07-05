@@ -78,7 +78,7 @@ namespace Ecommerce.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Edit(int id,Product product)
+        public IActionResult Edit(int id,Product product,IFormFile imageFile)
         {
             if (id != product.Id)
             {
@@ -87,6 +87,20 @@ namespace Ecommerce.Controllers
 
             if (ModelState.IsValid)
             {
+                if (imageFile != null && imageFile.Length > 0)
+                {
+                    // Save the file to wwwroot/images
+                    var fileName = Path.GetFileName(imageFile.FileName);
+                    var savePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+
+                    using (var stream = new FileStream(savePath, FileMode.Create))
+                    {
+                        imageFile.CopyTo(stream);
+                    }
+
+                    // Save the filename to the DB
+                    product.ImageFileName = fileName;
+                }
                 _productService.UpdateProduct(product);
                 return RedirectToAction("AllProduct", "Product"); // or to your Product list page if you add one
             }
