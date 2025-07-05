@@ -23,10 +23,24 @@ namespace Ecommerce.Controllers
 
         [HttpPost]
         [ValidateAntiForgeryToken]
-        public IActionResult Create(Product product)
+        public IActionResult Create(Product product,IFormFile imageFile)
         {
             if (ModelState.IsValid)
             {
+                if (imageFile != null && imageFile.Length > 0)
+                {
+                    // Save the file to wwwroot/images
+                    var fileName = Path.GetFileName(imageFile.FileName);
+                    var savePath = Path.Combine(Directory.GetCurrentDirectory(), "wwwroot/images", fileName);
+
+                    using (var stream = new FileStream(savePath, FileMode.Create))
+                    {
+                        imageFile.CopyTo(stream);
+                    }
+
+                    // Save the filename to the DB
+                    product.ImageFileName = fileName;
+                }
                 _productService.AddProduct(product);
                 return RedirectToAction("AllProduct", "Product");
             }
