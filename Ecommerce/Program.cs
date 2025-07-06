@@ -23,6 +23,12 @@ builder.Services.AddAuthentication(CookieAuthenticationDefaults.AuthenticationSc
     .AddCookie(options =>
     {
         options.LoginPath = "/Account/Login";
+        options.LogoutPath = "/Account/Logout";
+        options.AccessDeniedPath = "/Account/AccessDenied";
+        options.ExpireTimeSpan = TimeSpan.FromMinutes(30); // ⏰ 30 seconds
+        options.SlidingExpiration = false; // disable sliding so it doesn't auto-extend
+        options.Cookie.HttpOnly = true;
+        options.Cookie.IsEssential = true;
     });
 
 var app = builder.Build();
